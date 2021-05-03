@@ -29,6 +29,7 @@ void EncodeString(TCHAR *pKey , TCHAR* pStrIn, TCHAR *pStrOut) {
 
 }
 //I Decoded This Crypto Algorithm which stated as "EncodeString".
+
 void DecodeString(TCHAR* pKey, TCHAR* pStrEncoded, TCHAR* pStrOut) {
 	int i, e,g, c, k, v;
 	e = _tcslen(pStrEncoded)-1 ;
