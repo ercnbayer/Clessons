@@ -28,7 +28,7 @@ void EncodeString(TCHAR *pKey , TCHAR* pStrIn, TCHAR *pStrOut) {
 	}
 
 }
-//I Decoded This Crypto Algorithm which stated as "EncodeString".
+//I Decoded This Crypto Algorithm which stated as "EncodeString".Everything belongs to the https://github.com/mavidurak/uygulamali-c-egitimleri except "DecodeString Function"
 
 void DecodeString(TCHAR* pKey, TCHAR* pStrEncoded, TCHAR* pStrOut) {	
 
