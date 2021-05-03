@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Crypto.cpp
+  CryptoDlg.cpp
+C:\Users\emreb\Downloads\Crypto (2)\Crypto\Crypto\CryptoDlg.cpp(210,89): error C2664: 'void EncodeString(TCHAR *,TCHAR *,TCHAR *)' : 1 bağımsız değişkeni 'const char [33]' değerinden 'TCHAR *' değerine dönüştürülemez
+C:\Users\emreb\Downloads\Crypto (2)\Crypto\Crypto\CryptoDlg.cpp(210,16): message : İşaretlenen türler ilgisiz; dönüştürme reinterpret_cast, C stili tür dönüştürme veya işlev stili tür dönüştürme gerektiriyor
+C:\Users\emreb\Downloads\Crypto (2)\Crypto\Crypto\CryptoDlg.cpp(160,6): message : 'EncodeString' bildirimine bakın
+C:\Users\emreb\Downloads\Crypto (2)\Crypto\Crypto\CryptoDlg.cpp(212,71): error C2664: 'void DecodeString(TCHAR *,TCHAR *,TCHAR *)' : 1 bağımsız değişkeni 'const char [33]' değerinden 'TCHAR *' değerine dönüştürülemez
+C:\Users\emreb\Downloads\Crypto (2)\Crypto\Crypto\CryptoDlg.cpp(212,15): message : İşaretlenen türler ilgisiz; dönüştürme reinterpret_cast, C stili tür dönüştürme veya işlev stili tür dönüştürme gerektiriyor
+C:\Users\emreb\Downloads\Crypto (2)\Crypto\Crypto\CryptoDlg.cpp(191,6): message : 'DecodeString' bildirimine bakın
